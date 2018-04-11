@@ -11,8 +11,8 @@ docker push deptno/[image name]
 
 ## list
 
-- <circleci-awscli-node8.Dockerfile> [https://hub.docker.com/r/deptno/circleci-awscli-node8/](dockerhub)
-  - <circleci-awscli-jq-node8.Dockerfile> [https://hub.docker.com/r/deptno/circleci-jq-awscli-node8/](dockerhub)
+- [circleci-awscli-node8.Dockerfile](https://hub.docker.com/r/deptno/circleci-awscli-node8)
+  - [circleci-awscli-jq-node8.Dockerfile](https://hub.docker.com/r/deptno/circleci-awscli-jq-node8)
 
 ## license
 
